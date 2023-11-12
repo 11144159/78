@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: gold;
+}
+
+header {
+    text-align: left;
+    padding: 25px;
+    background-color: #f2f2f2;
+    width: 50%;
+
+}
+
+.img101 {
+    float: left;
+    border-radius: 75%;
+    height: 250px;
+    width: 250px;
+    margin: 5px 25px;
+
+}
+
+
+
+section {
+    margin-bottom: 20px;
+    background-color: blueviolet;
+    width: 50%;
+    display: flow-root;
+
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+.ex01,
+.ex02 {
+    margin-bottom: 20px;
+}
+
+.education h2,
+.experience h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
