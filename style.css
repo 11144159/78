@@ -16,7 +16,6 @@ header {
     border-radius: 15% 15%;
     background-color: antiquewhite;
     font-family: Arial, Helvetica, sans-serif;
-    font-style: italic;
     font-size: 250%;
     height: 150px;
     font-weight: bold;
@@ -24,6 +23,11 @@ header {
     color: black;
     background-image: url(photo/05419b071639a2de157529f3951d1084.jpg!con);
 
+}
+
+.section01 h2 {
+    font-size: 50px;
+    margin-left: 5%;
 }
 
 .img101 {
@@ -68,9 +72,6 @@ nav a {
     background-image: url(photo/th.jpg);
 
 }
-
-
-
 
 .interests {
     padding: 0 50px 50px;
@@ -170,6 +171,12 @@ h1 {
 
 }
 
+.spot1 {
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: border;
+}
+
 .shape {
     animation-name: skill;
     animation-duration: 4s;
@@ -182,7 +189,7 @@ h1 {
     width: 150px;
     height: 173px;
     line-height: 20px;
-    background: rgb(32, 31, 31);
+    background: rgb(184, 155, 142);
     clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
     margin-left: 1%;
     margin-top: 75px;
@@ -209,6 +216,113 @@ h1 {
 
 }
 
+.C img {
+    display: flex;
+    position: absolute;
+    left: 56%;
+    top: 309%;
+    width: 70px;
+}
+
+.C p {
+    display: flex;
+    position: absolute;
+    left: 56%;
+    top: 313%;
+    font-size: medium;
+    font-size: 30px;
+}
+
+.Ccc img {
+    display: flex;
+    position: absolute;
+    left: 56%;
+    top: 292%;
+    width: 74px;
+}
+
+.Ccc p {
+    display: flex;
+    position: absolute;
+    left: 56%;
+    top: 296%;
+    font-size: medium;
+    font-size: 30px;
+    margin-left: 1%;
+}
+
+.html img {
+    display: flex;
+    position: absolute;
+    left: 47.5%;
+    top: 281%;
+    width: 80px;
+}
+
+.html p {
+    display: flex;
+    position: absolute;
+    left: 47.5%;
+    top: 285%;
+    font-size: medium;
+    font-size: 30px;
+    margin-left: 1%;
+}
+
+.css img {
+    display: flex;
+    position: absolute;
+    left: 48%;
+    top: 315%;
+    width: 70px;
+}
+
+.css p {
+    display: flex;
+    position: absolute;
+    left: 47.5%;
+    top: 322.5%;
+    font-size: medium;
+    font-size: 30px;
+    margin-left: 25px;
+
+}
+
+.java img {
+    display: flex;
+    position: absolute;
+    left: 38%;
+    top: 292%;
+    width: 80px;
+}
+
+.java p {
+    display: flex;
+    position: absolute;
+    left: 39%;
+    top: 297%;
+    font-size: medium;
+    font-size: 30px;
+}
+
+.python img {
+    display: flex;
+    position: absolute;
+    left: 38%;
+    top: 307%;
+    width: 65px;
+    margin-left: 15px;
+}
+
+.python p {
+    display: flex;
+    position: absolute;
+    left: 38%;
+    top: 315%;
+    font-size: medium;
+    font-size: 20px;
+}
+
 .shape h2 {
     margin-left: 32%;
     color: beige;
@@ -226,7 +340,6 @@ h1 {
 
 
 }
-
 
 .experenice {
 
